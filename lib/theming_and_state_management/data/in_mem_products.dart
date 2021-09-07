@@ -80,13 +80,13 @@ final products = [
     image_url: 'assets/sun_glasses_1.jpg',
   ),
   Product(
-    name: 'Sun glasses',
+    name: 'Golden sun glasses',
     description: 'For everyone.',
     price: 39.99,
     image_url: 'assets/sun_glasses_2.jpg',
   ),
   Product(
-    name: 'Sun glasses',
+    name: 'Black sun glasses',
     description: 'For the boys.',
     price: 39.99,
     image_url: 'assets/sun_glasses_3.jpg',
